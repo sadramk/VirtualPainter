@@ -9,7 +9,7 @@ brushThickness = 10
 eraserhickness = 100
 ##############################
 
-folderPath = "./"
+folderPath = "Header"
 myList = os.listdir(folderPath)
 overlayList = []
 for imPath in myList:
