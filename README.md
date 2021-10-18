@@ -3,6 +3,8 @@
 2. pip install mediapipe
 3. pip install opencv-python
 
-for run: python VirtualPainter.py
+python VirtualPainter.py
+
+
 2 finger's up for select
 1 finger up for draw
