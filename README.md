@@ -4,5 +4,5 @@
 3. pip install opencv-python
 4. python VirtualPainter.py
 <hr>
-. 2 finger's up for select
-. 1 finger up for draw
+<p>2 finger's up for select</p>
+<p>1 finger up for draw</p>
